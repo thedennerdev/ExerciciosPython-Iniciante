@@ -57,5 +57,3 @@ elif computador == 2: #computador jogou TESOURA
         print('EMPATE')
     else:
         print('Jogada invalida')
-else:
-    print('Jogada invalida')
